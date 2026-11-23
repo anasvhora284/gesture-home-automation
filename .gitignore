@@ -1,0 +1,14 @@
+mp_hand_gesture/
+data.pickle
+*.pickle
+*.h5
+*.rar
+venv/
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.vscode/
+.idea/
+build/
+dist/

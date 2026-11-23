@@ -1,0 +1,8 @@
+# Tested combination for Python 3.10 / 3.11.
+# TensorFlow 2.15 is the last release where Keras 2 can load the SavedModel
+# directory with load_model(); mediapipe 0.10.14 still ships mp.solutions.
+tensorflow==2.15.1
+mediapipe==0.10.14
+opencv-python==4.9.0.80
+numpy==1.26.4
+pyserial==3.5
